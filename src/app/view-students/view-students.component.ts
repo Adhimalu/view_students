@@ -11,5 +11,5 @@ export class ViewStudentsComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+name="Ammu"
 }
